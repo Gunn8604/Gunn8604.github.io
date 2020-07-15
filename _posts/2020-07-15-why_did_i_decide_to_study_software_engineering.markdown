@@ -1,0 +1,24 @@
+---
+layout: post
+title:      "Why did I decide to study Software Engineering?"
+date:       2020-07-15 04:20:05 +0000
+permalink:  why_did_i_decide_to_study_software_engineering
+---
+
+
+“Why did I decide to study Software Engineering?”
+
+Software Engineer known to many as a Computer Programmer or simply a Coder. There are many reasons why I decided to study Software Engineering. My top three would be career stability, flexibility of working from home, and the opportunity to stay actively involved in the ever-changing technology field. For me, this opportunity has come at a pivotal time in my life and I am thankful for the chance to learn something new that aligns with a lifetime passion of mine.  Using this skillset to start a new career is the ultimate goal and as I master this skillset, I will help others learn more about the growing industry. 
+
+In January 2020, I lost my job in the hospitality field as a General Manager. Imagine the shock and disappointment after working in the industry 6 months shy of a decade.  Hospitality Management was my first career path after graduating from Florida A&M University. For me, this was a very challenging time.   I poured so much of myself into my hotel and into advancing my career. My successes came one after the other, earning and excelling at various leadership roles. More importantly I enjoyed the opportunity to mentor and teach less seasoned hospitality team members, what it takes to succeed in the industry. 
+
+Shortly after losing my job and applying for unemployment, the pandemic that we know today as Covid-19 hit the hospitality industry hard. In that moment, I knew that if I was going to make a change the time would be NOW! As a result, I decided to take this time revisit an old passion, Software Engineering.   Week #1 into the program, through the frustrations of a novice, I have learned how imperative this industry is, but also how important teachers/mentors in the industry are.  I look forward to paying that forward…teaching and helping others once I become an expert in the field. In addition to that, I will be able to be actively involved in learning new skills and computer languages. I need my mind stay fresh and always be in a place of learning.
+
+Career stability is something that definitely helped push me in the direction of studying Software Engineering. With the world so rapidly changing, due to the effects a global pandemic I knew that my next career path would be in in a field that would not be impacted by a major health concern such as Covid-19. As more businesses and major companies are adjusting to the pandemic, certain things will change and never go back. For example, I remember vividly sitting on the couch watching tv and listening to the Mayor of New Jersey making an announcement that they are seeking out individuals who know a particular computer language that was prevalent in the 80’s because so many people were out of work and filing for unemployment.  This flood of NJ employment filings hitting their systems simultaneously caused their systems to crash. As a result, many New Jersey residents were applying for unemployment using paper applications, visiting their local unemployment office similar to Florida and other states. Knowing that even in a pandemic Software Engineers were still in demand gave me the confidence of knowing that there is definite security within this field. 
+
+After many years of commuting 20-60mins to and from work on a daily basis, having the opportunity to obtain a career that has the flexibility of working from home is a major plus for me. For many years of my working adult career, my long work hours and job responsibilities kept me from getting the opportunity to enjoy being home. For me, home was merely a place to shower and sleep, rarely enjoying simple pleasures such as cooking or relaxing. Now that I am settled in a home that I love, I want to be able to enjoy it and in its’ entirety. Knowing I can successfully grow in my career without having the commitment of working in an office setting 40-50 hours a week makes studying software engineering that much more desirable. I believe pursuing a career in software engineering will drastically improve my quality of life professionally and personally.
+
+Overall, there are many reasons why I chose to study Software Engineering. However, my top 3 reasons would be: flexibility of working from home, career stability and continuous learning. I am excited about the next chapter in my life and what is to come while I am a student at Flatiron School. It is my hope that I can encourage and help as many others along the way if this is a career path that one chooses. 
+
+Thank you for taking the time to read my first blog post and please stay tuned for future post and updates along my journey. 
+

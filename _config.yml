@@ -1,11 +1,11 @@
 # Site settings
-author: Billy Gunn, Jr.
-title: 
+author: Billy Gunn, Jr. 
+title: Why did I decide to study Software Engineering?
 header-img: img/home-bg.png
 email: bgunnjr@gmail.com
-copyright_name: Billy Gunn, Jr.
+copyright_name: Billy Gunn, Jr. 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Gunn8604
